@@ -90,13 +90,7 @@
                             <p class="text-muted mb-0">Recover faster while building a stronger foundation</p>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 text-center">
-                        <div class="mt-5">
-                            <i class="fas fa-4x fa-heart text-primary mb-4"></i>
-                            <h3 class="h4 mb-2">Ass</h3>
-                            <p class="text-muted mb-0">Yes</p>
-                        </div>
-                    </div>
+                    
                 </div>
             </div>
         </section>
